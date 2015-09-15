@@ -109,7 +109,8 @@ We have two sets of data:
 In this package we provide data for these parameters:
 * Bond dimension M = 800, 1200, 1600, 2000, 2800, 3200, 3600, 4000, 4800
 * System size L = 32, 48, 64, 80, 96, 128, 160, 192
-* Averange filling n = 0.875, 0.9375
+* Odd system sizes (only partial data) L = 33, 49, 65, 81, 97, 129
+* Averange filling n = 0.875, 0.9375, 0.96875
 
 
 4. START THE WORKFLOWS
